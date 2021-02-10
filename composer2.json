@@ -1,0 +1,13 @@
+{
+    "name": "vendor/p-o-o",
+    "description": "Descrição do projeto POO.",
+    "authors": [
+        {
+            "name": "Marcelo",
+            "email": "mljinformatica@gmail.com"
+        }
+    ],
+    "require": {
+        "composer/installers": "* dev-master"
+    }
+}
